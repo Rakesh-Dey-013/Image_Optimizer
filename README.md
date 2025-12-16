@@ -1,12 +1,84 @@
-# React + Vite
+# 🖼️ Image Optimizer / Compressor
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and fast **Image Optimizer & Compressor** built using **React** and **Tailwind CSS**.  
+This web app allows users to reduce image file sizes while maintaining good visual quality — perfect for optimizing images for websites, blogs, and applications.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Live Demo
 
-## Expanding the ESLint configuration
+#### 🔗 **Live Link:**  https://rakesh-dey-013.github.io/Image_Optimizer/
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## ✨ Features
+
+- [ ] 📉 Compress images to reduce file size  
+- [ ] 🖼️ Supports common image formats (JPG, PNG, etc.)
+- [ ] ⚡ Fast and responsive UI
+- [ ] 🎨 Clean and modern design using Tailwind CSS
+- [ ] 🌐 Runs completely in the browser (no server upload)
+
+---
+
+## 🛠️ Built With
+
+- [ ] **React** – Frontend framework
+- [ ] **Tailwind CSS** – Utility-first CSS framework
+- [ ] **JavaScript** – Image processing logic
+- [ ] **HTML5 Canvas API** – For image compression
+
+---
+
+## 📂 Project Structure
+
+```
+Image_Optimizer/
+├── src/
+│ ├── components/
+│ ├── context/
+│ ├── pages/
+│ ├── App.jsx
+│ ├── index.css
+│ └── main.jsx
+├── public/
+├── package.json
+└── README.md
+```
+
+## 📸 How It Works
+
+- [ ] Upload an image
+
+- [ ] Choose compression level (if available)
+
+- [ ] Optimize the image instantly
+
+- [ ] Download the compressed image
+
+## 🎯 Use Cases
+
+- [ ] Website performance optimization
+
+- [ ] Reducing image upload size
+
+- [ ] Faster page load times
+
+- [ ] Image optimization for social media
+
+## 📌 Future Improvements
+
+- [ ] Batch image compression
+
+- [ ] More format support (WebP, AVIF)
+
+- [ ] Preview comparison (Before vs After)
+
+- [ ] Drag & drop support
+
+---
+
+## 👨‍💻 Author
+
+Rakesh Dey
+GitHub: @rakesh-dey-013
